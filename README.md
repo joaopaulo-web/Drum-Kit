@@ -6,11 +6,6 @@ Esse projeto consiste em uma página web que simula uma bateria virtual com imag
 
 Para executar o projeto, você precisa ter um navegador web instalado em sua máquina, como Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, entre outros.
 
-- Cadastrar novos usuários;
-- Listar usuários cadastrados;
-- Editar informações de um usuário existente;
-- Excluir usuários cadastrados.
-
 ## Como executar
 
 Clone ou faça o download do repositório em sua máquina.
